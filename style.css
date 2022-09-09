@@ -1,0 +1,127 @@
+body {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family:
+        margin: 0%;
+}
+
+.help-flooded-people {
+    text-align: center;
+    padding: 10%;
+    color: white;
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.donate-now {
+    text-align: center;
+    padding: 10%;
+    margin-bottom: 2%;
+}
+
+
+
+.food-shelter-education {
+    display: flex;
+}
+
+.food-shelter-education div {
+
+    margin: 1%;
+    text-align: left;
+    padding: 2% 3%;
+
+}
+
+#food {
+    background-color: cornsilk;
+}
+
+#shelter {
+    background-color: pink;
+}
+
+#education {
+    background-color: bisque;
+
+}
+
+.donate-button {
+    background-color: tomato;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+}
+
+.button-amount {
+    margin: 1%;
+    padding: 4% 3%;
+    border: none;
+    font-size: medium;
+}
+
+#red-button {
+    border-style: solid;
+    border-color: tomato;
+}
+
+.half-width {
+    width: 100%;
+    display: flex;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+#help-people {
+    margin-left: 5%;
+    text-align: left;
+
+}
+
+.email {
+    background-color: aquamarine;
+    padding: 10% 20%;
+
+}
+
+#submit {
+    padding: 2%;
+    background-color: tomato;
+    color: azure;
+    margin-left: 0%;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.emailEmail {
+
+    border: none;
+    padding: 2%;
+    background-color: antiquewhite;
+}
+
+#footer {
+    background-color: black;
+    text-align: center;
+}
+
+#footer p {
+    color: white;
+    padding-bottom: 2%;
+}
+
+#footer h3 {
+    color: brown;
+    padding-top: 2%;
+}
